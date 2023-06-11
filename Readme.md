@@ -1,1 +1,1 @@
-#This is the jupter code through colab
+#This is the jupyter code through colab
